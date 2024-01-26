@@ -1,4 +1,4 @@
-%% Experiment - 2
+%% Experiment - 2 | Section - 1
 % Example - 6
 clc;
 clear all;
